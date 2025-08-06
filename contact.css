@@ -1,0 +1,44 @@
+body{
+background-image: url(c6f048023874d27be28043f493e96a9d[1].jpg);
+background-repeat: no-repeat;
+background-size: 1580px 1190px;
+}
+form{
+    border: solid 1px rgb(221, 163, 163) hidden;
+    width: 500px;
+    padding-left: 10px;
+    margin-left: 100px;
+}
+h1{
+    color: rgb(236, 31, 48);
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color:  beige;
+    font-size: 22px;
+    font-weight:bold ;
+
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 20px;
+
+}
+textarea{
+    width: 350px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+button:hover{
+    background-color:violet;
+}
